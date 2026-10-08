@@ -51,6 +51,18 @@ activities = {
         "max_participants": 25,
         "participants": []
     },
+    "Volleyball Team": {
+        "description": "Practice teamwork and improve defensive and offensive skills",
+        "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Swimming Club": {
+        "description": "Build endurance and technique in the pool",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 12,
+        "participants": []
+    },
     "Art Club": {
         "description": "Explore drawing, painting, and other visual arts",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
@@ -63,6 +75,18 @@ activities = {
         "max_participants": 20,
         "participants": []
     },
+    "Photography Club": {
+        "description": "Practice composition and learn digital and film photography",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    "Pottery Club": {
+        "description": "Shape clay pieces and explore hand-building techniques",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
+    },
     "Debate Club": {
         "description": "Research topics and practice persuasive argument",
         "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
@@ -73,6 +97,18 @@ activities = {
         "description": "Explore scientific ideas through experiments and projects",
         "schedule": "Fridays, 3:30 PM - 4:30 PM",
         "max_participants": 15,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging problems and prepare for math competitions",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots for competitions and demos",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
         "participants": []
     }
 }
